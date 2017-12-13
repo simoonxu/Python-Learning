@@ -1,2 +1,2 @@
 # test1
-for test purpose
+This is my first project for test purpose.
